@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(97, 133, 133);
+}
+
+img {
+    border: 5px solid rgb(60, 12, 75);
+    border-radius: 100px;
+}
+
+a{
+    text-decoration: dotted;
+    color: darkslategray
+}
